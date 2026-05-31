@@ -8,8 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-ganesh-ab0897318/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh17122)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshrama1712@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 <br/>
 
@@ -49,7 +47,7 @@ class GaneshR:
 
 me = GaneshR()
 me.say_hi()
-` `` 
+```
 
 ---
 
@@ -247,7 +245,6 @@ me.say_hi()
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-ganesh-ab0897318/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshrama1712@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh17122)
 
 </div>
@@ -259,13 +256,3 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
-```
-
----
-
-**One important note on the Python code block:** GitHub README requires the opening and closing triple backticks to be on their own lines with no extra spaces. When you paste, make sure the About Me section looks exactly like this structure — triple backtick + `python` on one line, then the code, then triple backtick alone to close it.
-
-**3 quick things to do after pasting:**
-1. Update the 4 project repo links (FSCMS, food-ordering, gesture-control, smart-helmet) to match your actual repository names
-2. Add your LeetCode profile URL in the LeetCode badge link
-3. Set up the GitHub Actions snake workflow from the previous response to activate the contribution snake animation
