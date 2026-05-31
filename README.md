@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ganesh%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications+%F0%9F%9A%80;Python+%7C+Java+%7C+Flask+%7C+React+Developer;Database+%26+Backend+Engineering+Enthusiast;Open+to+Internships+%26+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications+%F0%9F%9A%80;Python+%7C+Java+%7C+Flask+%7C+Developer;Database+%26+Backend+Engineering+Enthusiast;Open+to+Internships+%26+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-### 🌾 Farmer-Salesman CMS
+### Farmer-Salesman CMS
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh17122/FSCMS)
 &nbsp;
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-### 🍕 Online Food Ordering System
+### Online Food Ordering System
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh17122/food-ordering)
 &nbsp;
@@ -135,7 +135,7 @@
 
 <div align="center">
 
-### ✋ Gesture Control System
+### Gesture Control System
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh17122/gesture-control)
 &nbsp;
@@ -155,7 +155,7 @@
 
 <div align="center">
 
-### ⛑️ Smart Helmet System
+### Smart Helmet System
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh17122/smart-helmet)
 &nbsp;
@@ -178,7 +178,7 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
@@ -221,22 +221,22 @@
 
 ---
 
-## 🏅 Achievements & Leadership
+## Achievements & Leadership
 
 <div align="center">
 
-| 🏆 Achievement | 📍 Details |
+| Achievement | Details |
 |---|---|
-| 🏛️ **IEEE Treasurer** | Selected as Treasurer, IEEE Computer Society — College Chapter |
-| 💻 **Coding Contest** | Participated at Coimbatore Institute of Technology |
-| 🚀 **Hackathon** | Participated at K Ramakrishnan College of Technology |
-| 💼 **Internship** | Full-Stack Developer Intern at CodeSpark, Tirunelveli |
+| **IEEE Treasurer** | Selected as Treasurer, IEEE Computer Society — College Chapter |
+| **Coding Contest** | Participated at Coimbatore Institute of Technology |
+| **Hackathon** | Participated at K Ramakrishnan College of Technology |
+| **Internship** | Full-Stack Developer Intern at CodeSpark, Tirunelveli |
 
 </div>
 
 ---
 
-## 🌱 Currently Learning & Open To
+## Currently Learning & Open To
 
 <div align="center">
 
