@@ -121,7 +121,6 @@ Location : Tamil Nadu, India 🇮🇳
 <br/>
 <div align="center">
 
-## 🌾
 ### Farmer-Salesman CMS
 
 <a href="https://github.com/Ganesh17122/FSCMS">
@@ -154,7 +153,6 @@ Location : Tamil Nadu, India 🇮🇳
 <br/>
 <div align="center">
 
-## 🍕
 ### Online Food Ordering System
 
 <a href="https://github.com/Ganesh17122/food-ordering">
@@ -188,7 +186,6 @@ Location : Tamil Nadu, India 🇮🇳
 <br/>
 <div align="center">
 
-## ✋
 ### Gesture Control System
 
 <a href="https://github.com/Ganesh17122/gesture-control">
@@ -218,7 +215,6 @@ Location : Tamil Nadu, India 🇮🇳
 <br/>
 <div align="center">
 
-## ⛑️
 ### Smart Helmet System
 
 <a href="https://github.com/Ganesh17122/smart-helmet">
@@ -253,7 +249,7 @@ Location : Tamil Nadu, India 🇮🇳
 
 ---
 
-## 🏅 &nbsp; Achievements & Leadership
+## Achievements & Leadership
 
 <br/>
 
@@ -300,7 +296,7 @@ Location : Tamil Nadu, India 🇮🇳
 
 ---
 
-## 📜 &nbsp; Certifications
+## Certifications
 
 <br/>
 
@@ -356,7 +352,7 @@ Location : Tamil Nadu, India 🇮🇳
 
 ---
 
-## 🌱 &nbsp; Currently Learning
+## Currently Learning
 
 <br/>
 
@@ -372,7 +368,7 @@ Location : Tamil Nadu, India 🇮🇳
 
 <br/><br/>
 
-## 🤝 &nbsp; Open To
+## Open To
 
 <img src="https://img.shields.io/badge/🔍_Internships-OPEN-0D1117?style=for-the-badge&color=0D1117&labelColor=2ea44f"/>
 &nbsp;
@@ -388,7 +384,7 @@ Location : Tamil Nadu, India 🇮🇳
 
 ---
 
-## 📬 &nbsp; Let's Connect
+## Let's Connect
 
 <br/>
 
