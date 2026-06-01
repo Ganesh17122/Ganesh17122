@@ -1,72 +1,75 @@
 ````markdown
 <div align="center">
 
-# 𝙂𝘼𝙉𝙀𝙎𝙃 𝙍
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A11CB,100:2575FC&text=GANESH%20OS%20v2.0&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=Software+Engineer+Aspirant;Full+Stack+Developer;Cloud+Computing+Enthusiast;Java+Developer;Problem+Solver;Open+Source+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full+Stack+Developer;Cloud+Computing+Enthusiast;Software+Engineer+in+Progress;Building+Solutions+That+Matter" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20To%20My%20GitHub&fontSize=45&fontAlignY=40&animation=fadeIn"/>
+<br>
 
-</div>
+### 🌱 "Build with purpose, learn with passion, grow with consistency."
 
----
-
-<div align="center">
-
-### 🚀 Building Innovative Solutions Through Code
-
-<img src="https://komarev.com/ghpvc/?username=Ganesh17122&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Ganesh17122&style=for-the-badge&color=blueviolet" />
 
 </div>
 
 ---
 
-## 💫 About Me
+# 🚀 MISSION CONTROL
 
-```yaml
-Name: Ganesh R
-Role: Computer Science Engineering Student
-Location: Tamil Nadu, India
-College: M Kumarasamy College of Engineering
-CGPA: 7.3
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Interests:
-  - Full Stack Development
-  - Cloud Computing
-  - Artificial Intelligence
-  - Backend Engineering
-  - Database Systems
+SYSTEM NAME      : GANESH OS v2.0
+STATUS           : ONLINE 🟢
+ROLE             : Full Stack Developer
+LOCATION         : Tamil Nadu, India
+EDUCATION        : B.E Computer Science Engineering
+COLLEGE          : M Kumarasamy College of Engineering
 
-Currently Learning:
-  - Advanced Java
-  - React
-  - Cloud Technologies
-  - Data Structures & Algorithms
+CURRENT MISSION:
+▸ Software Engineering
+▸ Cloud Computing
+▸ Full Stack Development
+▸ Open Source Learning
+
+NEXT TARGET:
+▸ Software Engineer Role
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ````
 
 ---
 
-## 🌐 Connect With Me
+# 👨‍💻 ABOUT ME
 
-<p align="center">
+```console
+ganesh@github:~$ whoami
 
-<a href="mailto:ganeshrama1712@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Ganesh R
 
-<a href="https://linkedin.com/in/r-ganesh-ab0897318">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+Computer Science Engineering Student
 
-<a href="https://github.com/Ganesh17122">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
-</a>
+Passionate about:
+✓ Software Development
+✓ Cloud Computing
+✓ Backend Engineering
+✓ Database Management
+✓ Full Stack Applications
 
-</p>
+Currently Learning:
+✓ React
+✓ Advanced Java
+✓ Data Structures & Algorithms
+✓ Cloud Technologies
+
+Goal:
+Become a highly skilled Software Engineer.
+```
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ TECH STACK
 
 <div align="center">
 
@@ -76,7 +79,7 @@ Currently Learning:
 
 ---
 
-# 📊 GitHub Analytics
+# 📡 SYSTEM ANALYTICS
 
 <div align="center">
 
@@ -86,7 +89,7 @@ Currently Learning:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -96,7 +99,7 @@ Currently Learning:
 
 ---
 
-# 🏆 Achievements
+# 🏆 ACHIEVEMENT CENTER
 
 <div align="center">
 
@@ -106,53 +109,68 @@ Currently Learning:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 ACTIVITY MATRIX
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh17122&theme=tokyo-night"/>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 PROJECT VAULT
 
-### 🌾 Farmer-Salesman Contact Management System
+## 🌾 Farmer-Salesman Contact Management System
 
 ```diff
 + Full Stack Web Application
-+ Role Based Authentication
++ Authentication System
++ Role Based Dashboard
 + Contact Management
-+ Search Functionality
-+ Farmer & Buyer Dashboard
++ Search & Communication Features
 ```
 
-### 🍔 Online Food Ordering System
+Tech Used:
+HTML • CSS • JavaScript • PHP • MySQL
+
+---
+
+## 🍔 Online Food Ordering System
 
 ```diff
-+ React Application
++ Responsive User Interface
 + Cart Management
-+ Order Placement
-+ Responsive Design
++ Menu Browsing
++ Order Processing
 ```
 
-### ✋ Gesture Control System
+Tech Used:
+React • JavaScript • Node.js
+
+---
+
+## ✋ Gesture Control System
 
 ```diff
-+ OpenCV
-+ Hand Gesture Detection
++ Real-Time Hand Gesture Recognition
++ OpenCV Integration
 + Touchless Computer Control
 ```
 
-### ⛑ Smart Helmet System
+Tech Used:
+Python • OpenCV
+
+---
+
+## ⛑ Smart Helmet System
 
 ```diff
 + Gas Detection
 + Temperature Monitoring
 + Accident Alerts
-+ Safety Monitoring
++ Worker Safety System
 ```
 
 ---
 
-# 📜 Certifications
+# 📜 CERTIFICATIONS
 
 🏅 NPTEL Cloud Computing
 
@@ -162,39 +180,66 @@ Currently Learning:
 
 ---
 
-# 💼 Internship Experience
+# 💼 EXPERIENCE LOG
 
-## CODESPARK – Tirunelveli
+## CODESPARK — Tirunelveli
 
-✔ Full Stack Development
+```yaml
+Role: Full Stack Development Intern
 
-✔ CRUD Operations
-
-✔ Database Integration
-
-✔ Team Collaboration
+Responsibilities:
+  - Frontend Development
+  - Backend Development
+  - CRUD Operations
+  - Database Integration
+  - Team Collaboration
+```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 CURRENT OBJECTIVES
 
-🔥 Master Full Stack Development
+```text
+[✓] Build Full Stack Applications
 
-🔥 Learn Cloud & DevOps
+[✓] Improve Java Skills
 
-🔥 Strengthen DSA Skills
+[✓] Learn Cloud Technologies
 
-🔥 Contribute to Open Source
+[✓] Strengthen DSA Concepts
 
-🔥 Secure a Software Engineering Role
+[ ] Contribute to Open Source
+
+[ ] Secure Software Engineering Role
+```
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="mailto:ganeshrama1712@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/r-ganesh-ab0897318">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Ganesh17122">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 💻 ""Success is the sum of small efforts repeated day in and day out.""
+## 💡 "Stay curious. Keep building. Never stop learning."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A11CB,100:2575FC"/>
 
 </div>
 ```
